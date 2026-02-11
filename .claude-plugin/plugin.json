@@ -1,0 +1,12 @@
+{
+  "name": "xcode-run",
+  "version": "1.0.0",
+  "description": "Trigger Xcode's Run (Cmd+R) from the terminal and return focus to your editor",
+  "author": {
+    "name": "fsalbrechter"
+  },
+  "license": "MIT",
+  "keywords": ["xcode", "ios", "macos", "build", "run"],
+  "commands": "./commands/",
+  "skills": "./skills/"
+}
