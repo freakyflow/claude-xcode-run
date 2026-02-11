@@ -45,15 +45,6 @@ export RETURN_TO="Terminal"
 export RETURN_TO="Ghostty"
 ```
 
-## How it works
-
-The plugin runs `xcode-run.sh`, a small bash script that uses AppleScript to:
-1. Briefly focus Xcode
-2. Send Cmd+R to build & run
-3. Return focus to your editor
-
-Using a script file means macOS only prompts for Accessibility permissions once, rather than on every invocation.
-
 ## Requirements
 
 - macOS
