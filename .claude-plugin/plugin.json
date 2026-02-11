@@ -1,6 +1,6 @@
 {
   "name": "xcode-run",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Trigger Xcode's Run (Cmd+R) from the terminal and return focus to your editor",
   "author": {
     "name": "fsalbrechter"
